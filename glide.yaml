@@ -1,0 +1,5 @@
+package: github.com/tolleiv/tfidfredis
+import:
+- package: github.com/mediocregopher/radix.v2
+  subpackages:
+  - redis
